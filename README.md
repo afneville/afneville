@@ -1,17 +1,17 @@
 # Project Portfolio
 
-Hello, my name is Alex. I am a first-year undergraduate Computer Science
-student at the University of Birmingham in the UK. I am currently
-learning about programming and software engineering, focusing on the C,
-C++ and Python languages. I am particularly interested in Free and Open
-Source software and I am learning to use Linux and some of the core Unix
-utilities at the same time.
+Hello, my name is Alex. I am a second-year undergraduate Computer
+Science student at the University of Birmingham in the UK. I am
+currently learning about programming and software engineering, focusing
+on the C, C++ and Python languages. I am particularly interested in Free
+and Open Source software and I am learning to use Linux and some of the
+core Unix utilities at the same time.
 
-[:house: alexneville.co.uk](https://alexneville.co.uk)
+[:house: aneville.uk](https://aneville.uk)
 
-[:mailbox: contact@alexneville.co.uk](mailto:contact@alexneville.co.uk)
+[:mailbox: contact@aneville.uk](mailto:contact@aneville.uk)
 
-[:key: PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/6526651FCB32C82BB3A6449C97BAC3EFF6C6C53D)
+[:key: PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/CD282C70B02BA79568936B81A08EBFDC2F75FF39)
 
 ## :gear: System Configuration
 
