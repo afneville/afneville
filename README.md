@@ -7,11 +7,11 @@ on the C, C++ and Python languages. I am particularly interested in Free
 and Open Source software and I am learning to use Linux and some of the
 core Unix utilities at the same time.
 
-[:house: aneville.uk](https://aneville.uk)
+[:house: aneville.uk](https://aneville.uk) | [:mailbox: contact@aneville.uk](mailto:contact@aneville.uk)
 
-[:mailbox: contact@aneville.uk](mailto:contact@aneville.uk)
+[:key: PGP public key (contact@aneville.uk)](https://keys.openpgp.org/vks/v1/by-fingerprint/CD282C70B02BA79568936B81A08EBFDC2F75FF39)
 
-[:key: PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/CD282C70B02BA79568936B81A08EBFDC2F75FF39)
+[:key: PGP public key (git@aneville.uk)](https://keys.openpgp.org/vks/v1/by-fingerprint/F1DBCF2BBB825F3F388B800BD25EA14264D58EC8)
 
 ## :gear: System Configuration
 
