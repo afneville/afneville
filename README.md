@@ -7,29 +7,26 @@ on the C, C++ and Python languages. I am particularly interested in Free
 and Open Source software and I am learning to use Linux and some of the
 core Unix utilities at the same time.
 
-[:house: aneville.uk](https://aneville.uk) | [:mailbox: contact@aneville.uk](mailto:contact@aneville.uk)
+[:house: afneville.com](https://afneville.com) |
+[:mailbox: contact@afneville.com](mailto:contact@afneville.com)
 
-[:key: PGP public key (contact@aneville.uk)](https://keys.openpgp.org/vks/v1/by-fingerprint/CD282C70B02BA79568936B81A08EBFDC2F75FF39)
-
-[:key: PGP public key (git@aneville.uk)](https://keys.openpgp.org/vks/v1/by-fingerprint/F1DBCF2BBB825F3F388B800BD25EA14264D58EC8)
+- [:key: PGP public key (contact@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
+- [:key: PGP public key (git@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
 
 ## :gear: System Configuration
 
-- [Dotfiles](https://github.com/alexanderneville/dotfiles)
-- [Emacs Initialisation](https://github.com/alexanderneville/emacs-config)
-- [Neovim Initialisation](https://github.com/alexanderneville/nvim-config)
-- [Theme Collection](https://github.com/alexanderneville/b16-themes)
+- [Dotfiles](https://github.com/afneville/dotfiles)
+- [Emacs Initialisation](https://github.com/afneville/emacs-config)
+- [Neovim Initialisation](https://github.com/afneville/nvim-config)
 
 ## :bar_chart: Data Science
 
-- [ML/AI Notebooks](https://github.com/alexanderneville/MLAI_notebooks)
-- [MNIST Digit Classifier](https://github.com/alexanderneville/MNIST_solver)
-- [Optical Character Recognition](https://github.com/alexanderneville/OCR)
-- [Physics Data Workflow](https://github.com/alexanderneville/physics)
+- [MNIST Digit Classifier](https://github.com/afneville/MNIST_solver)
+- [Optical Character Recognition](https://github.com/afneville/OCR)
+- [Physics Data Workflow](https://github.com/afneville/physics)
 
 ## :octocat: Other
 
-- [Memory Allocator](https://github.com/alexanderneville/memory_allocator)
-- [x86 Assembly Programming](https://github.com/alexanderneville/assembly)
-- [Cmatrix Clone](https://github.com/alexanderneville/cmatrix)
-- [My Home Page](https://github.com/alexanderneville/website)
+- [Memory Allocator](https://github.com/afneville/memory_allocator)
+- [Cmatrix Clone](https://github.com/afneville/cmatrix)
+- [My Home Page](https://github.com/afneville/website)
