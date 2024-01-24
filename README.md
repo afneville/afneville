@@ -8,6 +8,8 @@ software, Linux & Unix, self-hosting and Internet privacy &
 security.
 
 [:house: afneville.com](https://afneville.com) |
+[:books: docs.afneville.com](https://docs.afneville.com) |
+[:bust_in_silhouette: linkedin.com/in/afneville](https://www.linkedin.com/in/afneville/) |
 [:mailbox: contact@afneville.com](mailto:contact@afneville.com)
 
 - [:key: PGP public key (contact@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
@@ -25,7 +27,7 @@ security.
 - [Optical Character Recognition](https://github.com/afneville/OCR)
 - [Physics Data Workflow](https://github.com/afneville/physics)
 
-## :octocat: Other
+## :octocat: Assorted
 
 - [Memory Allocator](https://github.com/afneville/memory_allocator)
 - [Cmatrix Clone](https://github.com/afneville/cmatrix)
