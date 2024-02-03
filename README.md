@@ -1,11 +1,6 @@
 # Project Portfolio
 
-Hello, my name is Alexander. I am a second-year undergraduate Computer
-Science student at the University of Birmingham. I am currently learning
-about programming and software engineering, focusing on the C, C++ and
-Python languages. I am particularly interested in free and open-source
-software, Linux & Unix, self-hosting and Internet privacy &
-security.
+Hello, my name is Alexander. I am a second-year undergraduate Computer Science student at the University of Birmingham. I am learning about programming, software engineering and system administration - working most often with the C, C++ and Python languages on a Linux platform. I am particularly interested in free & open-source software, Linux & Unix, self-hosting and Internet privacy & security; I enjoy discussing and learning about all of these subjects. 
 
 [:house: afneville.com](https://afneville.com) |
 [:books: docs.afneville.com](https://docs.afneville.com) |
