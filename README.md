@@ -10,14 +10,15 @@ learning about all of these subjects.
 
 [:house: Home](https://afneville.com) |
 [:speech_balloon: Blog](https://docs.afneville.com) |
-[:bust_in_silhouette: LinkedIn](https://www.linkedin.com/in/afneville/) |
+[:bust_in_silhouette: LinkedIn](https://www.linkedin.com/in/afneville/)
+|
 [:mortar_board: CV](https://afneville.com/res/alexander-neville-CV-public.pdf)
 
-[:mailbox: contact@afneville.com](mailto:contact@afneville.com)
+[:mailbox: contact@afneville.com](mailto:contact@afneville.com) |
+[:key: PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
 
-[:key: PGP public key (contact@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/BB302E2E1E8460173DD869A0E584CD0E64E26B84)
-
-[:key: PGP public key (git@afneville.com)](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
+[:mailbox: git@afneville.com](mailto:git@afneville.com) |
+[:key: PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
 
 ## :gear: System Configuration
 
@@ -33,9 +34,9 @@ learning about all of these subjects.
 
 ## :octocat: Assorted Projects
 
-- [Data Structures & Algorithms](https://github.com/afneville/DSA)
-- [Memory Allocator](https://github.com/afneville/memory_allocator)
-- [Cmatrix Clone](https://github.com/afneville/cmatrix)
+- [STL Data Structures & Algorithms](https://github.com/afneville/DSA)
+- [Memory Allocator Implementation](https://github.com/afneville/memory-allocator)
+- [Cmatrix TUI Clone](https://github.com/afneville/cmatrix)
 
 ## :globe_with_meridians: Web Development
 
