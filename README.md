@@ -31,6 +31,7 @@ learning about all of these subjects.
 - [MNIST Digit Classifier](https://github.com/afneville/MNIST-solver)
 - [Optical Character Recognition](https://github.com/afneville/OCR)
 - [AI Visualisations](https://github.com/afneville/AI-visualisations)
+- [Physics Data Manipulation](https://github.com/afneville/physics-data-manipulation)
 
 ## :octocat: Assorted Projects
 
