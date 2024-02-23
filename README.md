@@ -20,6 +20,8 @@ learning about all of these subjects.
 [:mailbox: git@afneville.com](mailto:git@afneville.com) |
 [:key: PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/5327548E8A384B0036410BDF262E0CE9C78FD949)
 
+[:iphone: Signal Messenger](https://signal.me/#eu/vaojnhDojUTxZPfY7OcrxXKde-0_TQoq8Ho1VGVasQ4Nx5l-27tJqbDod4z3zMfN)
+
 ## :gear: System Configuration
 
 - [Dotfiles](https://github.com/afneville/dotfiles)
