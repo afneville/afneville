@@ -1,6 +1,3 @@
-<div>
-<p>Cloud Infrastructure Engineer Intern, Kubernetes Platfom Team at Confluent.</p>
-</div>
 <p></p>
 <div>
   <a href="https://afneville.com">:house: Home</a> |
