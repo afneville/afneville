@@ -1,4 +1,3 @@
-<p></p>
 <div>
   <a href="https://afneville.com">:house: Home</a> |
   <a href="https://docs.afneville.com">:speech_balloon: Blog</a> |
